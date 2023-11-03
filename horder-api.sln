@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{673B2807-F083-47A3-A74E-62F8E21E9ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horder.Common", "Horder.Common\Horder.Common.csproj", "{2391A3AA-4B86-43A8-BF35-F9D1DE0A2FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horder.Repository", "Horder.Repository\Horder.Repository.csproj", "{E48D5CF8-9351-4EAF-B8F1-8CCC75A56BE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horder.Service", "Horder.Service\Horder.Service.csproj", "{A853D450-793C-4D87-99D1-BA963EACB7C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horder.API", "Horder.API\Horder.API.csproj", "{4D351361-3FC2-4C14-801A-590E12639665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2391A3AA-4B86-43A8-BF35-F9D1DE0A2FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2391A3AA-4B86-43A8-BF35-F9D1DE0A2FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2391A3AA-4B86-43A8-BF35-F9D1DE0A2FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2391A3AA-4B86-43A8-BF35-F9D1DE0A2FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E48D5CF8-9351-4EAF-B8F1-8CCC75A56BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48D5CF8-9351-4EAF-B8F1-8CCC75A56BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48D5CF8-9351-4EAF-B8F1-8CCC75A56BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48D5CF8-9351-4EAF-B8F1-8CCC75A56BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A853D450-793C-4D87-99D1-BA963EACB7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A853D450-793C-4D87-99D1-BA963EACB7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A853D450-793C-4D87-99D1-BA963EACB7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A853D450-793C-4D87-99D1-BA963EACB7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D351361-3FC2-4C14-801A-590E12639665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D351361-3FC2-4C14-801A-590E12639665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D351361-3FC2-4C14-801A-590E12639665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D351361-3FC2-4C14-801A-590E12639665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
